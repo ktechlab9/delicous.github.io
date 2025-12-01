@@ -1,5 +1,5 @@
 // GitHub CSV URL
-const csvUrl = 'https://raw.githubusercontent.com/ktechlab9/delicous.github.io/refs/heads/main/recipes.csv';
+const sheetURL = "https://raw.githubusercontent.com/ktechlab9/delicous.github.io/main/recipes.csv";
 const recipeGrid = document.getElementById('recipe-grid');
 const searchInput = document.getElementById('searchInput');
 const categoryFilter = document.getElementById('categoryFilter');
